@@ -1,47 +1,17 @@
-[
+{
+  "users": [
     {
-    "id": 1,
-    "name": "John Doe",
-    "email": "john.doe@example.com"
+      "id": "KX4Kk2_lVok",
+      "name": "User11rthrth"
     },
     {
-    "id": 2,
-    "name": "Jane Doe",
-    "email": "jane.doe@example.com"
+      "name": "tegb3wth\\",
+      "id": "KMjXWJUZ1aQ"
     },
     {
-    "id": 3,
-    "name": "Jim Doe",
-    "email": "jim.doe@example.com"
-    },
-    {
-    "id": 4,
-    "name": "Jill Doe",
-    "email": "jill.doe@example.com"
-    },
-    {
-    "id": 5,
-    "name": "Jack Doe",
-    "email": "jack.doe@example.com"
-    },
-    {
-    "id": 6,
-    "name": "Jill Doe",
-    "email": "jill.doe@example.com"
-    },
-    {
-    "id": 7,
-    "name": "Jack Doe",
-    "email": "jack.doe@example.com"
-    },
-    {
-    "id": 8,
-    "name": "Jill Doe",
-    "email": "jill.doe@example.com"
-    },
-    {
-    "id": 9,
-    "name": "Jack Doe",
-    "email": "jack.doe@example.com"
+      "name": "Uswer333",
+      "id": "qiynoEv26Sg"
     }
-]
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
