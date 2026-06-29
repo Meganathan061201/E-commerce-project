@@ -1,0 +1,17 @@
+{
+  "users": [
+    {
+      "id": "KX4Kk2_lVok",
+      "name": "User11rthrth"
+    },
+    {
+      "name": "tegb3wth\\",
+      "id": "KMjXWJUZ1aQ"
+    },
+    {
+      "name": "Uswer333",
+      "id": "qiynoEv26Sg"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
